@@ -14,9 +14,8 @@ Membuat File Koneksi.php
 [gambar 3 perintah   hasil menambahkan program CRUD](https://user-images.githubusercontent.com/81859768/120864069-d3513880-c5b5-11eb-903b-def7fbbe6ac4.png)
 Membuat File Indeks.php![gambar 4 perintah membuat index php ](https://user-images.githubusercontent.com/81859768/120864180-00055000-c5b6-11eb-8280-9c15a61bde9d.png)
 # Menambahkan CSS Pada Koneksi.php Maka Hasilnya Akan Seperti Ini![gambar 4 menambahkan CSS pada index php](https://user-images.githubusercontent.com/81859768/120864260-21fed280-c5b6-11eb-8721-65b515dfe490.png)
-Membuat Program File Tambah.php!
-[gambar 5 perintah membuat file tambah 1](https://user-images.githubusercontent.com/81859768/120864518-8a4db400-c5b6-11eb-8d2b-e6d2009c26e2.png)
-[gambar 5 perintah membuat file tambah 2](https://user-images.githubusercontent.com/81859768/120864544-92a5ef00-c5b6-11eb-9cde-6d856839fa73.png)
+Membuat Program File Tambah.php!![gambar 5 perintah membuat file tambah 1](https://user-images.githubusercontent.com/81859768/120864722-dbf63e80-c5b6-11eb-8e27-362f232952ef.png)
+![gambar 5 perintah membuat file tambah 2](https://user-images.githubusercontent.com/81859768/120864729-e0baf280-c5b6-11eb-925c-fd7525d91deb.png)
 Maka hasilnya akan seperti ini ![gambar 5 hasil membuat file tambah barang 3](https://user-images.githubusercontent.com/81859768/120864621-aea99080-c5b6-11eb-9018-1ec05662abb6.png)
 ![gambar 5 hasil membuat file data barang 4](https://user-images.githubusercontent.com/81859768/120864634-b406db00-c5b6-11eb-9327-af9cd8613508.png)
 
