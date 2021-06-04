@@ -1,4 +1,4 @@
-# Praktikum-8 ( LAB8 WEB )
+# Praktikum-8 ( Lab 8 WEB )
 # Nama  : Firdiansyah Ramadhan
 # NIM   : 311910564
 # Kelas : TI.19.F1
@@ -18,5 +18,10 @@ Membuat Program File Tambah.php!![gambar 5 perintah membuat file tambah 1](https
 ![gambar 5 perintah membuat file tambah 2](https://user-images.githubusercontent.com/81859768/120864729-e0baf280-c5b6-11eb-925c-fd7525d91deb.png)
 Maka hasilnya akan seperti ini ![gambar 5 hasil membuat file tambah barang 3](https://user-images.githubusercontent.com/81859768/120864621-aea99080-c5b6-11eb-9018-1ec05662abb6.png)
 ![gambar 5 hasil membuat file data barang 4](https://user-images.githubusercontent.com/81859768/120864634-b406db00-c5b6-11eb-9327-af9cd8613508.png)
-
+Perintah Membuat File Ubah.php![gambar 6 perintah ubah1 ](https://user-images.githubusercontent.com/81859768/120867219-b15ab480-c5bb-11eb-916c-5a9efe770d8e.png)
+![gambar 6 perintah ubah2 ](https://user-images.githubusercontent.com/81859768/120867238-b881c280-c5bb-11eb-86b7-52d0a0ca2018.png)
+![gambar 6 perintah ubah3 ](https://user-images.githubusercontent.com/81859768/120867256-c20b2a80-c5bb-11eb-8216-0007c1b467bd.png)
+Maka Hasil Tampilannya Akan Seperti Ini![Ubah barang](https://user-images.githubusercontent.com/81859768/120867346-eebf4200-c5bb-11eb-9201-65fdc0b786a1.png)
+![Sebelum Di ubah](https://user-images.githubusercontent.com/81859768/120867424-1adac300-c5bc-11eb-93fa-a17a811a3ee5.png)
+![Sesudah Di ubah](https://user-images.githubusercontent.com/81859768/120867434-20380d80-c5bc-11eb-97ec-6d14b9f3c498.png)
 
